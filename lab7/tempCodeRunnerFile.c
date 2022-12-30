@@ -1,0 +1,1 @@
+    // forstat = (forstat << 5) >> 5;
